@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpuffyniteHD
+- 👋 Hi, I’m Fouwaru
 - 👀 I’m interested in Gaming and Music Producing
 - 📫 My Discord Tag is Shito#4321
 
