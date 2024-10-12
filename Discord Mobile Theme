@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "Anime Theme",
+    "description": "Just an Anime Theme.",
 	"authors": [
       {
          "name": "Fouwaru",
@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://i.imgur.com/2nBuB3o.jpeg"
+        "url": "https://i.imgur.com/bAF4H9Y.jpeg"
     },
     "plus": {
         "version": 0,
